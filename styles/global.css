@@ -16,7 +16,7 @@
 :root {
     --brand-color-primary: #F7B733;
     --brand-color-secondary: #FC4A1A;
-    --brand-gradient: linear-gradient(var(--brand-color-secondary), var(--brand-color-primary));
+    --brand-gradient: linear-gradient(90deg, var(--brand-color-secondary), var(--brand-color-primary));
     --background-color: #09090B;
     --surface-color: #18181B;
     --stroke-color: #27272A;
